@@ -2,6 +2,8 @@
 
 Utility for listing pure functions in one or more Go source files.
 
+Uses the [purefunction](https://github.com/xyproto/purefunction) module.
+
 ## Requirements
 
 * go
