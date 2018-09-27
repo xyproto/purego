@@ -1,0 +1,6 @@
+test/test
+*.bak
+*.swp
+*.tmp
+*.log
+*~
